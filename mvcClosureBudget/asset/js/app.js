@@ -200,7 +200,7 @@ var UIController = (function() {
             var fields, fieldsArr;
 
             fields = document.querySelectorAll(DOMstrings.inputDescription + ', ' + DOMstrings.inputValue);
-            fieldsArr = Array.prototype.slice.call(fields); // making list to array!!!!
+            fieldsArr = Array.prototype.slice.call(fields); // making list to array!!!!!!!!+++++++++++!!!!!!!!!!!
 
             // ++++++++++++++++ForEach other elements+++++++++
             fieldsArr.forEach(function(current, index, actualArr) {
